@@ -1,6 +1,6 @@
 
 export const environment = {
-    production: false,
-	API_ENDPOINT: "https://ocean-a-pi-6oakj.ondigitalocean.app",
+    production: true,
+	API_ENDPOINT: "http://68.183.144.7/",
 	PREDEFINED: true
  };
