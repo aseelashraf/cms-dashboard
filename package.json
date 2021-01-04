@@ -13,7 +13,7 @@
 		"lint": "ng lint",
 		"e2e": "ng e2e",
 	        "preinstall": "npm install -g angular-cli",
-	        "postinstall": "npm run config -- --environment=prod && ng build --prod --c=production"
+	        "postinstall": "ng build --prod"
 
 	},
 	"private": true,
