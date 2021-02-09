@@ -1,5 +1,5 @@
 export const environment = {
     production: true,
-	API_ENDPOINT: "http://68.183.144.7/",
+	API_ENDPOINT: "http://168.119.255.116:3005/",
 	PREDEFINED: true
  };
